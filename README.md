@@ -1,9 +1,7 @@
-
-Acesse meu portfólio em: 
-<a href="https://gitfollio.vercel.app/AsrielDreemurrGM"> 🔗
+View my portfolio:
+🔗 <a href="https://gitfollio.vercel.app/AsrielDreemurrGM">
   https://gitfollio.vercel.app/AsrielDreemurrGM
 </a>
-
 <!-- GitFolio:start
 {
   "gitfolio": "on",
@@ -14,13 +12,12 @@ Acesse meu portfólio em:
   "website": "",
   "githubUser": "AsrielDreemurrGM",
   "linkedinUser": "https://www.linkedin.com/in/eduardo-augusto-mr/",
-  "about": "Hello, I’m Eduardo Augusto. A Fullstack Java Developer whose journey in tech started young and became serious in 2024, when I dedicated myself fully to coding. Beyond writing code, I love indie games and contribute free community translations to share them with more players.
-I enjoy coding, experimenting, and discovering what’s next every day — because life is all about curiosity, creativity, and connection.",
-  "showStars": false,
-  "showFollowers": false,
+  "about": "Hello, I’m Eduardo Augusto. A Fullstack Java Developer whose journey in tech started young and became serious in 2024, when I dedicated myself fully to coding. Beyond writing code, I love indie games and contribute free community translations to share them with more players.\nI enjoy coding, experimenting, and discovering what’s next every day — because life is all about curiosity, creativity, and connection.",
+  "showStars": true,
+  "showFollowers": true,
   "followers": 1,
   "following": 5,
-  "themeId": "dark",
+  "themeId": "modern",
   "tech": [
   "Java",
   "React",
@@ -91,7 +88,7 @@ I enjoy coding, experimenting, and discovering what’s next every day — becau
     "description": "A fictional e-commerce website for selling bearings and industrial parts. Built with Bootstrap 5, JavaScript, and custom CSS, this project focuses on responsive layouts, smooth navigation, and organized product catalogs.",
     "image": "https://servidor-host-imagens.vercel.app/portfolio/Parts-Shop.jpg",
     "techs": [
-      "Javascript",
+      "JavaScript",
       "Bootstrap",
       "CSS",
       "HTML",
@@ -108,7 +105,7 @@ I enjoy coding, experimenting, and discovering what’s next every day — becau
     "description": "This extension applies a custom dark theme to the EBAC learning platform, offering a more comfortable visual experience, especially for night time study sessions. Main features include instant theme application without reloading the page, preference storage across sessions and a button to dim video backgrounds.",
     "image": "https://servidor-host-imagens.vercel.app/portfolio/EBAC-Night-Extension.gif",
     "techs": [
-      "Javascript",
+      "JavaScript",
       "CSS",
       "HTML",
       "Browser Extension",
@@ -124,7 +121,7 @@ I enjoy coding, experimenting, and discovering what’s next every day — becau
     "url": "https://github.com/AsrielDreemurrGM/Microservices_Online_Selling",
     "stars": 0,
     "description": "A Java 21 Spring Boot microservices platform for managing clients, products, and sales. It leverages MongoDB for persistence, Spring Cloud Config Server for centralized configuration, OpenAPI/Swagger for API documentation, and Feign clients for inter-service communication.",
-    "image": "",
+    "image": "https://servidor-host-imagens.vercel.app/portfolio/Microservices-Online-Selling.png",
     "techs": [
       "Java",
       "MongoDB",
@@ -147,7 +144,7 @@ I enjoy coding, experimenting, and discovering what’s next every day — becau
     "url": "https://github.com/AsrielDreemurrGM/Migration_Of_JDBC_To_JPA",
     "stars": 0,
     "description": "This project is a migration of a full Java backend CRUD application from JDBC to JPA (Java Persistence API), maintaining PostgreSQL as the database engine. It preserves the core structure of the original project while introducing JPA annotations, entity relationships, and integration with the persistence layer via the DAO design pattern.",
-    "image": "",
+    "image": "https://servidor-host-imagens.vercel.app/portfolio/Migration-Of-JDBC-To-JPA.png",
     "techs": [
       "Java",
       "PostgreSQL",
@@ -168,7 +165,7 @@ I enjoy coding, experimenting, and discovering what’s next every day — becau
     "url": "https://github.com/AsrielDreemurrGM/JPA_Multi_Database_Testing",
     "stars": 0,
     "description": "Multi-database JPA testing project demonstrating CRUD operations across PostgreSQL and MySQL using multiple persistence units, generic DAOs, and comprehensive test coverage with JUnit 5.",
-    "image": "",
+    "image": "https://servidor-host-imagens.vercel.app/portfolio/JPA-Multi-Database-Testing.png",
     "techs": [
       "Java",
       "PostgreSQL",
@@ -189,7 +186,7 @@ I enjoy coding, experimenting, and discovering what’s next every day — becau
     "url": "https://github.com/AsrielDreemurrGM/PostgreSQL_JDBC_CRUD",
     "stars": 0,
     "description": "Full Java backend project featuring complete CRUD functionality using PostgreSQL and JDBC. Implements a generic DAO pattern, test-driven development (TDD) with JUnit 5, and secure environment-based configuration for database connections.",
-    "image": "",
+    "image": "https://servidor-host-imagens.vercel.app/portfolio/PostgreSQL-JDBC-CRUD.png",
     "techs": [
       "Java",
       "PostgreSQL",
@@ -206,4 +203,3 @@ I enjoy coding, experimenting, and discovering what’s next every day — becau
 ]
 }
 GitFolio:end -->
-  
